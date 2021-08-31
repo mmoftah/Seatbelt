@@ -1,3 +1,8 @@
+> # THIS PROJECT HAS BEEN DISCONTINUED
+> ## I do not give any support!
+
+<br />
+
 ![seatbelt](https://user-images.githubusercontent.com/50022415/87286070-094e7f80-c501-11ea-9474-cf5fe8c517fd.png)
 
 # Seatbelt
